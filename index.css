@@ -1,0 +1,44 @@
+html, body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+}
+
+.img{
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 100vh;
+}
+
+.img1{
+    background-image: url( 'imagenes/img1.jpg' );
+}
+
+.img2{
+    background-image: url( 'imagenes/img2.png' );
+}
+
+.img3{
+    background-image: url( 'imagenes/img3.jpg' );
+}
+
+.img4{
+    background-image: url( 'imagenes/img4.jpg' );
+}
+
+.img5{
+    background-image: url( 'imagenes/img5.jpg' );
+}
+
+.img6{
+    background-image: url( 'imagenes/img6.jpg' );
+}
+
+.img7{
+    background-image: url( 'imagenes/img7.png' );
+}
+
+.img8{
+    background-image: url( 'imagenes/img8.jpg' );
+}
